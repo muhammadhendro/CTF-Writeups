@@ -1,11 +1,6 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
-<img src="img/crypto1.PNG" class="center">
+
+<img src="img/crypto1.PNG" align="center">
 Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
 <br>
