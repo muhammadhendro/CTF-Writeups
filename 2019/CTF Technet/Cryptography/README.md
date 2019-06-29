@@ -42,6 +42,7 @@ flag **TNet{bAsE64_3Nc0dIn6_B3ruL4ng}**
 
 <p  align="center"><img src="img/crypto4.PNG"/></p>
 sesuai judul coba kita bruteforce pada single XORnya 
+
 ```
 def xor_string (string, key):
         result =""
