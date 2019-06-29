@@ -1,5 +1,5 @@
 <style type="text/css">
- img {
+ .img {
     display: block;
     margin: 0 auto;
 }
