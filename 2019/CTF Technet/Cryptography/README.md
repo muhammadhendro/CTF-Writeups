@@ -4,7 +4,7 @@
 Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
 
-## 61 1
+## 64 1
 <p  align="center"><img src="img/crypto2.PNG" /></p>
 didapat base64, decode saja flag 
 
@@ -15,8 +15,7 @@ didapat lagi base64 yg berulang, agar simple kita buat loopnya
 
 flag
 ## XOR
-<br>
-<br>
+
 <p  align="center"><img src="img/crypto4.PNG"/></p>
 sesuai judul coba kita bruteforce pada single XORnya
 
