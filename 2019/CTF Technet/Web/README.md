@@ -1,6 +1,6 @@
 ## Felis Catus
 <p  align="center"><img src="img/web1.PNG"/></p>
-didapat link tentang SQL injection, coba view page source terdapat md5 hash
+didapat link berupa penjelasan tentang SQL injection, coba view page source terdapat md5 hash
 <img src="img/web1a.PNG"/>
 
 didapat flag **TNet{kucing}**
@@ -18,7 +18,7 @@ didapat
   
  flag **TNet{SQL_Inj3ct10n_EZZ}**
  
- thx to gayu n rizky
+ *thx to gayu n rizky*
  
 ## Tebak Kata
 <p  align="center"><img src="img/web3.PNG"/></p>
@@ -37,9 +37,9 @@ flag **TNet{SQL_Inj3ct10n_L1m1Tzz}**
 
 ## Kepala Saya Dimana?
 <p  align="center"><img src="img/web5.PNG"/></p>
-sesuai clue cek pada header terdapat sebuah chipertext
+sesuai clue cek pada header tesebut terdapat sebuah chipertext
 <img src="img/web5b.png"/>
-cek juga pada page source didapat key berupa HEADER
+cek juga pada page source didapat key : HEADER
 
 <img src="img/web5a.PNG"/>
 langsung cus decrypt dengan vigener chiper
@@ -51,9 +51,9 @@ flag
 
 ## Javascript Membingungkan
 <p  align="center"><img src="img/web6.PNG"/></p>
-lihat page sourcenya terdapat file js.txt
+lihat pada page sourcenya terdapat file js.txt
 <img src="img/web6a.PNG"/>
-didapat string berupa jsfuck dan decode di http://codertab.com/JsUnFuck
+diketahui string berupa jsfuck dan decode di http://codertab.com/JsUnFuck
 <img src="img/web6b.PNG"/>
 
 flag **TNet{JS_Pr0gr4mMin6_5tYl3}**
