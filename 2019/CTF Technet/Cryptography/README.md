@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
  img {
     display: block;
     margin: 0 auto;
