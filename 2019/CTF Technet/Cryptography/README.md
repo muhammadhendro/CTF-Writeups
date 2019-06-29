@@ -1,17 +1,12 @@
-<style type="text/css">
- .img {
-    display: block;
-    margin: 0 auto;
-}
-  </style>
 
-<img src="img/crypto1.PNG"/>
+
+<img src="img/crypto1.PNG" class="center"/>
 Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
 <br>
 <br>
 
-<img src="img/crypto2.PNG"/>
+<img src="img/crypto2.PNG" />
 didapat base64, decode saja flag 
 <br>
 <br>
