@@ -56,6 +56,7 @@ cek pada fungsi key tsb didapat sebuah key yang sudah di XOR,
  <img src="img/r9.png"/>
  
  ketika di run..
+ 
  <img src="img/r10.png"/>
  
  flag **TNet{In1_P4ssw0rD_Ganzz}**
