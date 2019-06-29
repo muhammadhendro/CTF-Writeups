@@ -1,1 +1,0 @@
-crypto1.PNG
