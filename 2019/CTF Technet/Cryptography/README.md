@@ -1,22 +1,22 @@
-**Putar Tiga Belas**
+## Putar Tiga Belas
 
 <p  align="center"><img src="img/crypto1.PNG"/></p>
 Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
 <br>
 <br>
- **61 1 **
+## 61 1
 <p  align="center"><img src="img/crypto2.PNG" /></p>
 didapat base64, decode saja flag 
 <br>
 <br>
-**64 2**
+## 64 2
 <p  align="center"><img src="img/crypto3.PNG"/></p>
 
 didapat lagi base64 yg berulang, agar simple kita buat loopnya 
 
 flag
-**XOR**
+## XOR
 <br>
 <br>
 <p  align="center"><img src="img/crypto4.PNG"/></p>
