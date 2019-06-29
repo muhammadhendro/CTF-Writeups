@@ -18,7 +18,7 @@ flag  **TNet{Base64_3nC0diNg}**
 <p  align="center"><img src="img/crypto3.PNG"/></p>
 
 didapat lagi base64 yg berulang, agar simple kita pake script ini simpan string base64 pada flag.txt
-'''
+```
 import base64
 
 f = open('flag.txt', 'r')
@@ -32,14 +32,30 @@ while True:
     break
 
 
-'''
+```
 
 <img src="img/c4.png"/>
+
 flag **TNet{bAsE64_3Nc0dIn6_B3ruL4ng}**
+
 ## XOR
 
 <p  align="center"><img src="img/crypto4.PNG"/></p>
-sesuai judul coba kita bruteforce pada single XORnya
+sesuai judul coba kita bruteforce pada single XORnya 
+```
+def xor_string (string, key):
+        result =""
+        for c in string:
+                result += chr(ord(c) ^ key)
+        return result
+
+chipertext="CYrclOXEHS$tenGcHZ's$eyj"
+for i in range(0,256):
+        print i, xor_string(chipertext, i)
+
+```
+
+
 <img src="img/c5.png"/>
 
 flag **TNet{XOR_D3cryPt_M0d3rn}**
