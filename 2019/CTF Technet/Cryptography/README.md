@@ -5,7 +5,7 @@ Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
 <br>
 <br>
-# 64 1
+# adsadasd
 <p  align="center"><img src="img/crypto2.PNG" /></p>
 didapat base64, decode saja flag 
 <br>
