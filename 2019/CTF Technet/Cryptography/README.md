@@ -1,1 +1,1 @@
-<img src="crypto1.png>
+<img src="crypto1.png">
