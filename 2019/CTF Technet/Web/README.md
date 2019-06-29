@@ -41,7 +41,7 @@ lihat page sourcenya terdapat file js.txt
 <img src="img/web6a.PNG"/>
 didapat string berupa jsfuck decode di http://codertab.com/JsUnFuck
 <img src="img/web6b.PNG"/>
-flag {}
+flag **TNet{JS_Pr0gr4mMin6_5tYl3}**
 
 
 
