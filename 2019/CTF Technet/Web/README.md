@@ -4,7 +4,7 @@
 
 ## Login
 <p  align="center"><img src="img/web2.PNG"/></p>
-<img src="img/web2a.PNG"/>
+<img src="img/web2a.png"/>
  
 ## Tebak Kata
 <p  align="center"><img src="img/web3.PNG"/></p>
