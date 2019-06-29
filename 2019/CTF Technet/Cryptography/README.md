@@ -1,6 +1,6 @@
 
 
-<img src="img/crypto1.PNG" align="middle"/>
+<img src="img/crypto1.PNG" style="display:block;margin:auto"/>
 Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
 <br>
