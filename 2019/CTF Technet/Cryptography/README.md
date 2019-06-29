@@ -1,3 +1,10 @@
+<style>
+ img {
+    display: block;
+    margin: 0 auto;
+}
+  </style>
+
 <img src="img/crypto1.PNG"/>
 Didapat chiper ROT13 coba decode didapat flag Tnet{}
 
