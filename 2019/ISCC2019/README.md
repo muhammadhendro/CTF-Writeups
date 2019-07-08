@@ -1,2 +1,2 @@
-# Indonesia Cyber Security 2019
+# INDOSECURITY CYBER COMPETITION 2019
 <img src="img/jpgg.jpg">
