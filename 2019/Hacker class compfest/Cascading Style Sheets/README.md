@@ -1,6 +1,7 @@
 # Cascading Style Sheets
 
-<img src="img/1.png"/>
+
+<p  align="center"><img src="img/1.png"/></p>
 
 diberikan sebuah akses link di https://hackerclass.compfest.id/greeting 
 coba lihat source code web tersebut didapat potongan flag seperti ini
