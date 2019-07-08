@@ -1,5 +1,5 @@
 # Recovery Me
-diberikan sebuah file zip recovery.7z
+diberikan sebuah file zip recovery.7z https://drive.google.com/file/d/1r0ymZXyRGMxOvWgWk5Hb6awYmo2o92w5/view
 yang didalamnya terdapat file recovery.001, ketika dicek dengan format file merupakan file DOS boot.
 
 <img src="img/1.png"/>
