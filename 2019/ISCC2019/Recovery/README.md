@@ -9,8 +9,6 @@ saya analisa dengan hexeditor didapat sebuah file rar dan flag.apk,
 <img src="../img/5.png"/>
 asumsi saya file ini berisi flagnya 
 coba ekstrak dengan binwalk 
-
-<img src="../img/2.png"/>
 saat di cek format flag.apk adalah file zip, unzip file tersebut didapat banyak file seperti ini
 
 <img src="../img/3.png"/>
