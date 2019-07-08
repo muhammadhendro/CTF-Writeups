@@ -4,7 +4,8 @@ yang didalamnya terdapat file recovery.001, ketika dicek dengan format file meru
 
 <img src="../img/1.png"/>
 
-saya analisa dengan hexeditor didapat sebuah file rar dan flag.apk, <img src="../img/5.png"/> 
+saya analisa dengan hexeditor didapat sebuah file rar dan flag.apk, 
+<img src="../img/5.png"/> 
 asumsi saya file ini berisi flagnya 
 coba ekstrak dengan binwalk 
 <img src="../img/2.png"/>,
