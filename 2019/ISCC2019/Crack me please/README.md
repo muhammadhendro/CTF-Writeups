@@ -3,7 +3,7 @@
 didapat sebuah file 7z yang didalamnya terdapat file ok.zip dan takutlupa.pdf
 
 <img src="img/1.png"/>
-saat mencoba untuk mengekstrak, file ok.zip tsb diberi proteksi password,
+saat dicoba diekstrak, file ok.zip tsb diberi proteksi password,
 dimana password didapat dari isi takutlupa.pdf
 
 <img src="img/2.png"/>
@@ -17,13 +17,13 @@ dan didapat password berikut
 
 <img src="img/3.png"/>
 ekstrak dan didapat sebuah file zip lagi dan hai.png. 
-dan ternyata lagi lagi zip tsb diberi password dan wordlist yg didapat dari gambar tersebut
-lakukan kembali brute dengan dengan konversi dulu file gambar tsb dalam format string
+dan ternyata lagi lagi zip tsb diberi password dan wordlist yg didapat dari gambar tersebut.
+lakukan kembali brute dengan dengan konversi dulu file gambar  kedalam format string
 
 
 <img src="img/4.png"/>
 
-ekstrak kembali dan akhirnya didapat lah flag.txt..
+dan akhirnya didapat lah flag.txt..
 yang didalamnya terdapat sebuah md5 hash
 
 <img src="img/5.png"/>
