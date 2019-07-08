@@ -16,14 +16,14 @@ disini saya memakai fcrackzip untuk melakukan brute attack dengan wordlist tadi
 dan didapat password berikut
 
 <img src="img/3.png"/>
-ekstrak dan didapat sebuah file zip lagi dan hai.png. 
-dan ternyata lagi lagi zip tsb diberi password dan wordlist yg didapat dari gambar tersebut.
-lakukan kembali brute dengan dengan konversi dulu file gambar  kedalam format string
+saat diekstrak didapat sebuah file zip dan hai.png. 
+dan ternyata lagi lagi zip tsb diberi password dimana didapat dari gambar tersebut.
+lakukan kembali brute dengan dengan konversi dulu file gambar kedalam format string
 
 
 <img src="img/4.png"/>
 
-dan akhirnya didapat lah flag.txt..
+ekstrak kembali dan akhirnya didapat lah flag.txt..
 yang didalamnya terdapat sebuah md5 hash
 
 <img src="img/5.png"/>
