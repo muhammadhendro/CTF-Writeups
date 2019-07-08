@@ -11,6 +11,8 @@ disini bisa diketahui untuk melakukan bruteforce file ok.zip dari semua dictiona
 copy semua dictionary tersebut dan masukan dalam sebuah text utk dijadikan sebuah wordlist.
 
 disini saya memakai fcrackzip untuk melakukan brute attack dengan wordlist tadi
+> fcrackzip -u -D -p wordlist ok.zip
+
 dan didapat password berikut
 
 <img src="img/3.png"/>
@@ -30,7 +32,7 @@ yang didalamnya terdapat sebuah md5 hash
  <img src="img/6.png"/>
 
 
-> ISCC2019{makasih_udah_di_crack}
+**ISCC2019{makasih_udah_di_crack}**
 
 
 
