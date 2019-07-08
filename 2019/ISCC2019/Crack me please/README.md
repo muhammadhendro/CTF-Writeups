@@ -17,7 +17,7 @@ dan didapat password berikut
 
 <img src="img/3.png"/>
 saat diekstrak didapat sebuah file zip dan hai.png. 
-dan ternyata lagi lagi zip tsb diberi password dimana didapat dari gambar tersebut.
+dan ternyata lagi lagi zip tsb diberi password dimana didapat dari gambar hai.png tersebut.
 lakukan kembali brute dengan dengan konversi dulu file gambar kedalam format string
 
 
