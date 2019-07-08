@@ -15,8 +15,9 @@ dan didapat password berikut
 
 <img src="img/3.png"/>
 ekstrak dan didapat sebuah file zip lagi dan hai.png. 
+dan ternyata lagi lagi zip tsb diberi password dan wordlist yg didapat dari gambar tersebut
+lakukan kembali brute dengan dengan konversi dulu file gambar tsb dalam format string
 
-dan ternyata lagi lagi zip tsb diberi password dan wordlist didapat dari gambar tersebut
 
 <img src="img/4.png"/>
 
@@ -29,7 +30,7 @@ yang didalamnya terdapat sebuah md5 hash
  <img src="img/6.png"/>
 
 
-ISCC2019{makasih_udah_di_crack}
+> ISCC2019{makasih_udah_di_crack}
 
 
 
