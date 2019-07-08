@@ -1,29 +1,32 @@
 # Crack me please
 
-didapat sebuah file 7z yang didalamnya terdapat file ok.zip dan takutlupa.pdf
+didapat sebuah file 7zip https://drive.google.com/file/d/1EBlC29ZosqhigV7emsHNsfn7PfLpzT4K/view yang saat diekstrak didalamnya terdapat file ok.zip dan takutlupa.pdf
 
 <img src="img/1.png"/>
-saat dicoba diekstrak, file ok.zip tsb diberi proteksi password,
-dimana password didapat dari isi takutlupa.pdf
+saat dicoba diekstrak, file ok.zip tsb diberi proteksi.,
+dimana password didapat dari isi takutlupa.pdf tadi
 
 <img src="img/2.png"/>
-disini bisa diketahui untuk melakukan bruteforce file ok.zip dari semua dictionary yg didapat dari file pdf tsb.
+disini bisa diketahui untuk melakukan bruteforce file ok.zip dari semua list dictionary yg didapat dari isi pdf tsb.
 copy semua dictionary tersebut dan masukan dalam sebuah text utk dijadikan sebuah wordlist.
 
 disini saya memakai fcrackzip untuk melakukan brute attack dengan wordlist tadi
 > fcrackzip -u -D -p wordlist ok.zip
 
-dan didapat password berikut
+dan didapatlah password berikut
 
 <img src="img/3.png"/>
-saat diekstrak didapat sebuah file zip dan hai.png. 
-dan ternyata lagi lagi zip tsb diberi password dimana didapat dari gambar hai.png tersebut.
+saat diekstrak didapat sebuah file flag.zip dan hai.png. 
+dan ternyata lagi lagi zip tsb diberi password, dimana password didapat dari strings gambar hai.png tersebut.
+
+<img src="img/8.png"/>
+
 lakukan kembali brute dengan dengan konversi dulu file gambar kedalam format string
 
 
 <img src="img/4.png"/>
 
-ekstrak kembali dan akhirnya didapat lah flag.txt..
+coba ekstrak kembali dan akhirnya didapat lah flag.txt..
 yang didalamnya terdapat sebuah md5 hash
 
 <img src="img/5.png"/>
