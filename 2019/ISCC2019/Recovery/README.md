@@ -11,7 +11,8 @@ coba ekstrak dengan binwalk
 saat di cek format flag.apk adalah file zip, unzip file tersebut didapat banyak file seperti ini
 <img src="../img/3.png"/>. 
 saya cek 1 per 1 file tsb, saya curiga dengan folder res/layout/main.xml. 
-ketika di strings didapat flag <img src="../img/4.png"/>  
+ketika di strings didapat flag 
+<img src="../img/4.png"/>  
 
 **flag={aplikasi_pertama_saya}**
  
