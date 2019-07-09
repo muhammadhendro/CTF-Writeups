@@ -1,6 +1,6 @@
 # Gedebug
 
-diberikan sebuah link web menuju http://gedebug.herokuapp.com/ yang menampilkan sebuah gambar anjxng maen komputer, menunjukan meme bahwa di dalam internet, tidak seorang pun tahu jika itu ajg sekalipun :v
+diberikan sebuah link web menuju http://gedebug.herokuapp.com/ yang menampilkan sebuah gambar anjxng maen komputer, menunjukan meme , bahwa di dalam internet, tidak seorang pun tahu kita siapa maupun jika itu ajg sekalipun :v
 
 <img src="img/1.png">
 
