@@ -9,7 +9,7 @@ dimana web tsb meminta sebuah inputan,
 <img src="img/3.png"/>
 
 buka file index.php tersebut,
-iketahui dilakukan pengecekan pada $guess harus sama dengan $number.
+diketahui dilakukan pengecekan apabila pada $guess sama dengan $number akan menghasilkan flag.
 
 <img src="img/2.png"/>
 
