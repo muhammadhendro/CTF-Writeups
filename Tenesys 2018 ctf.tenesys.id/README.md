@@ -1,4 +1,4 @@
 
 # Writeups ctf.tenesys.id 2018
 
-<img align="center" src="Tenesys.png">
+<p align="center"><img  src="Tenesys.png"></p>
