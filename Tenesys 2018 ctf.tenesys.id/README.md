@@ -1,4 +1,4 @@
 
-# writeups ctf.tenesys.id 2018
+# Writeups ctf.tenesys.id 2018
 
-flintz
+<img align="center" src="Tenesys.png">
