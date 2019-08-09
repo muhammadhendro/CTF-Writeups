@@ -1,4 +1,4 @@
 # CTF-Writeups
 
-kumpulan writeup dari kompetisi mana aja<br>
+kumpulan writeups dari kompetisi mana aja :v<br>
 **flintz**
