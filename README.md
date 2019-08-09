@@ -1,3 +1,4 @@
 # CTF-Writeups
 
-flintz
+kumpulan writeup dari kompetisi mana aja<br>
+**flintz**
