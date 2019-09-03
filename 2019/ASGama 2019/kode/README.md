@@ -35,3 +35,5 @@ didapat lah qr berisi flag tersebut<br>
 
 <img src="qr.png"/>
 
+**ASGama{RRQ_C0D3_not_Qrc0D3}**
+
