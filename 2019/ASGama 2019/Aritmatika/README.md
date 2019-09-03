@@ -83,7 +83,8 @@ if __name__ == '__main__':
 
 ```
 
-<br>
+
+jalankan dan flag didapat<br>
 
 **ASGama{g3nius_pl4yer}**
 <br>
