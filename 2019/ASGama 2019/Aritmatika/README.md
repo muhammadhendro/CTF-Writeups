@@ -3,10 +3,13 @@
 diberikan sebuah koneksi nc 202.43.92.132 43000 <br>
 dilihat program meminta melakukan operasi hitung sebanyak 100x<br>
 
+<img src="arit11.png">
+
 disini saya mencoba script pada https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
 yang memiliki kemiripan pada soal ini.
 
-disini saya ubah nilai regex tersebut berdasarkan string yang ditangkap pada nc nc 202.43.92.132 43000<br>
+disini saya ubah nilai regex tersebut berdasarkan string yang ditangkap pada nc nc 202.43.92.132 43000 <br>
+Complete 100 arithmetic questions below\nResult is only an integer value\n\n>> <br>
 
 ```
  match = re.search('(\d+)(?:\s*)([\+\-\*\/])(?:\s*)(\d+)', decoded)
