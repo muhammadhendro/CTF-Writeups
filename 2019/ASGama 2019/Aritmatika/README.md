@@ -5,7 +5,7 @@ dilihat program meminta melakukan operasi hitung sebanyak 100x<br>
 
 <img src="arit11.png">
 
-disini saya mencoba script pada https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
+disini saya menemukan wu pada https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
 yang memiliki kemiripan pada soal ini.
 
 disini saya ubah nilai regex tersebut berdasarkan string yang ditangkap pada nc nc 202.43.92.132 43000 <br>
