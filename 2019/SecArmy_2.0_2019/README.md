@@ -1,6 +1,6 @@
 # SECARMY 2.0 Junior
 
-[Writeup SECARMY 2.0 ](https://github.com/muhammadhendro/CTF-Writeups/blob/master/2019/SecArmy_2.0_2019/SecArmy2.pdf)
+[Writeup SECARMY 2.0.pdf ](https://github.com/muhammadhendro/CTF-Writeups/blob/master/2019/SecArmy_2.0_2019/SecArmy2.pdf)
 
 
 
