@@ -5,7 +5,7 @@ dilihat program meminta melakukan operasi hitung sebanyak 100x<br>
 
 <img src="arit11.png">
 
-disini saya mencoba script pada https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
+disini saya menemukan wu pada https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
 yang memiliki kemiripan pada soal ini.
 
 disini saya ubah nilai regex tersebut berdasarkan string yang ditangkap pada nc nc 202.43.92.132 43000 <br>
@@ -16,6 +16,7 @@ Complete 100 arithmetic questions below\nResult is only an integer value\n\n>> <
 
 ```
 <br>
+berikut script
 
 ```
 #!/usr/bin/python3
@@ -81,10 +82,15 @@ if __name__ == '__main__':
         client.send(data)
 
 ```
-<br>
+
+
+jalankan dan flag didapat<br>
+
 **ASGama{g3nius_pl4yer}**
 <br>
-disini saya juga mencoba script lain tanpa menggunakan regex namun gagal <br>
+
+disini saya juga mencoba script lain menggunakan pwntools namun gagal <br>
+
 ```
 #!/usr/bin/python
 
