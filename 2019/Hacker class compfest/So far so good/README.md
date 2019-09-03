@@ -35,8 +35,11 @@ decode <br>
 
 <br>
 script lain<br>
-``` while [ "`find . -type f -name '*.zip' | wc -l`" -gt 0 ]; do find -type f -name "*.zip" -exec unzip -- '{}' \; -exec rm -- '{}' \;; done
+
+``` 
+while [ "`find . -type f -name '*.zip' | wc -l`" -gt 0 ]; do find -type f -name "*.zip" -exec unzip -- '{}' \; -exec rm -- '{}' \;; done
  ```
  <br>
- ``` while true; do unzip $(ls \*.zip) -d $(ls \*.zip). && cd $(ls \*.zip).; done
+ ``` 
+ while true; do unzip $(ls \*.zip) -d $(ls \*.zip). && cd $(ls \*.zip).; done
  ```
