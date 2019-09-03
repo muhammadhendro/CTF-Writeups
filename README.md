@@ -1,5 +1,5 @@
 # CTF-Writeups
 
-kumpulan writeups dari kompetisi mana aja :v<br>
+kumpulan  writeups CTF dari kompetisi mana aja :v<br>
 **flintz**
 
