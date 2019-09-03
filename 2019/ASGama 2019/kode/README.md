@@ -7,7 +7,7 @@ diberikan file zip berisi potongan gambar yang diduga sebuah qr code
 
 berikut script yang dicoba
 
-'''
+```
 from PIL import Image
 
 
@@ -25,13 +25,15 @@ def main():
 if __name__ == '__main__':
 	main()
 
-'''
+```
 namun hasil qr tidak bisa di decode <br>
 setelah searching https://medium.com/@the.bilal.rizwan/intigriti-ctf-writeup-737009900a42 <br>
 didapat tools linux yaitu montage yang dapat menggabungkan potongan dari gambar tersebut<br>
 
-''' montage -mode concatenate -title 30x30 $(ls -v *) qr.png '''
+``` montage -mode concatenate -title 30x30 $(ls -v *) qr.png ``` <br>
 didapat lah qr berisi flag tersebut<br>
 
 <img src="qr.png"/>
+
+**ASGama{RRQ_C0D3_not_Qrc0D3}**
 
