@@ -17,3 +17,7 @@
 ## Forensics
 - [Secret message](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Hacker%20class%20compfest/Secret%20Message)
 - [So far so good](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Hacker%20class%20compfest/So%20far%20so%20good)
+
+## Crypto
+
+- [A Few Bits of Modern Crypto](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Hacker%20class%20compfest/A%20Few%20Bits%20of%20Modern%20Crypto)
