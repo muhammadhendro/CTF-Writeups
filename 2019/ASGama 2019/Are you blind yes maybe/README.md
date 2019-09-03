@@ -1,7 +1,7 @@
 # Are you blind yes maybe
 
-diberikan sebuah web berisi sebuah inputan <br>
-<img src="img.png"><br>
+diberikan sebuah web berisi sebuah inputan <br><br>
+<img src="img.png"><br><br>
 berikut berupa source code web tsb<br>
 ```
 <html> 
