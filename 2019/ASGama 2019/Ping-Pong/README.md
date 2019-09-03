@@ -15,9 +15,9 @@ kemudian dilakukan pengecekan terhadap data section untuk protocol icmp <br>
 ditemukan data section sepanjang 24496 bytes pada ICMP streams<br>
 
 
-``` tshark -r ping-pong.pcap -Y 'icmp.type==0' -Tfields -e data | xxd -r -p | head -20 ``` <br>
+``` tshark -r ping-pong.pcap -Y 'icmp.type==0' -Tfields -e data | xxd -r -p | head -20 ``` <br><br>
 <img src="ping3.png"><br>
-terlihat banyak base64, Setelah beberapa percobaan dilakukan pengambilan diakhir base64 tersebut berisi flagnya
+terlihat banyak base64, Setelah beberapa percobaan dilakukan pengambilan diakhir base64 tersebut berisi flagnya<br><br>
 ``` tshark -r ping-pong.pcap -Y 'icmp.type==0' -Tfields -e data | cut -c65- | xxd -r -p | base64 -d ```<br>
 
 <img src="ping4.png"><br>
