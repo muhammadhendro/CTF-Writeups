@@ -30,7 +30,7 @@ namun hasil qr tidak bisa di decode <br>
 setelah searching https://medium.com/@the.bilal.rizwan/intigriti-ctf-writeup-737009900a42 <br>
 didapat tools linux yaitu montage yang dapat menggabungkan potongan dari gambar tersebut<br>
 
-``` montage -mode concatenate -title 30x30 $(ls -v *) qr.png ```
+``` montage -mode concatenate -title 30x30 $(ls -v *) qr.png ``` <br>
 didapat lah qr berisi flag tersebut<br>
 
 <img src="qr.png"/>
