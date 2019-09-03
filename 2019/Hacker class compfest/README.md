@@ -21,3 +21,4 @@
 ## Crypto
 
 - [A Few Bits of Modern Crypto](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Hacker%20class%20compfest/A%20Few%20Bits%20of%20Modern%20Crypto)
+- [sabe64](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Hacker%20class%20compfest/sabe64)
