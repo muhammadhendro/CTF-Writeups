@@ -1,6 +1,6 @@
 # Invisible Programming
 
-diketahui terdapat enkripsi whitespace <br>
+enkripsi whitespace <br>
 
 ```
 import re
