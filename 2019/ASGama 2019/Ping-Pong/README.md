@@ -22,5 +22,5 @@ terlihat banyak base64, Setelah beberapa percobaan dilakukan pengambilan diakhir
 
 <img src="ping4.png"><br>
 
-** ASGama{m4ntap__mhanx_t4nc3p_ter000000000000s} **
+**ASGama{m4ntap__mhanx_t4nc3p_ter000000000000s}**
 
