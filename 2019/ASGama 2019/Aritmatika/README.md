@@ -16,6 +16,7 @@ Complete 100 arithmetic questions below\nResult is only an integer value\n\n>> <
 
 ```
 <br>
+berikut script
 
 ```
 #!/usr/bin/python3
@@ -81,10 +82,14 @@ if __name__ == '__main__':
         client.send(data)
 
 ```
+
 <br>
+
 **ASGama{g3nius_pl4yer}**
 <br>
+
 disini saya juga mencoba script lain tanpa menggunakan regex namun gagal <br>
+
 ```
 #!/usr/bin/python
 
