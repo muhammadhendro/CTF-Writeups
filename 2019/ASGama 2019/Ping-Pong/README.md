@@ -12,7 +12,7 @@ kemudian dilakukan pengecekan terhadap data section untuk protocol icmp <br>
 ```  tshark -r ping-pong.pcap -Y icmp -Tfields -e data | tr -d '[:space:]' | wc ``` <br>
 
 <img src="ping2.png"><br>
-ditemukan data section sepanjang 4416 bytes pada ICMP streams<br>
+ditemukan data section sepanjang 24496 bytes pada ICMP streams<br>
 
 
 ``` tshark -r ping-pong.pcap -Y 'icmp.type==0' -Tfields -e data | xxd -r -p | head -20 ``` <br>
