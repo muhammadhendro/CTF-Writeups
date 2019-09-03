@@ -4,5 +4,5 @@
 
 
 
-<p align="center"><img src="ssecarmyscore.png" widht="300" height="300"></p>
+<p align="center"><img src="ssecarmyscore.png" widht="500" height="500"></p>
 <p align="center"><img src="secarmy_flintz.png" ></p>
