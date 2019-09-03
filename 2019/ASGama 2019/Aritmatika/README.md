@@ -89,7 +89,7 @@ jalankan dan flag didapat<br>
 **ASGama{g3nius_pl4yer}**
 <br>
 
-disini saya juga mencoba script lain tanpa menggunakan regex namun gagal <br>
+disini saya juga mencoba script lain menggunakan pwntools namun gagal <br>
 
 ```
 #!/usr/bin/python
