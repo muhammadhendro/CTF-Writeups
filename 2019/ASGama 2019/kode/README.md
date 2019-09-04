@@ -37,3 +37,17 @@ didapat lah qr berisi flag tersebut<br>
 
 **ASGama{RRQ_C0D3_not_Qrc0D3}**
 
+
+```
+import requests
+import re
+
+url = 'https://zxing.org/w/decode'
+files = {'f': open('qr.jpg', 'rb')}
+req = requests.post(url, files=files)
+flag = re.search(r'<pre>(.*?)<\/pre>', req.content).group(1)
+
+print "Flag: " + flag
+
+```
+
