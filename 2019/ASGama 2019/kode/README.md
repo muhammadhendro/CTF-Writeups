@@ -51,3 +51,28 @@ print "Flag: " + flag
 
 ```
 
+script lain<br>
+
+```
+from PIL import Image
+import requests
+import re
+
+im = Image.new("RGB", (30,30), 'white')
+px = im.load()
+y =0
+x = 0
+i = 1
+
+while y< 30:
+	for x in range(0,30):
+		fn = str(i) + ".png"
+		jm = Image.open(fn)
+		qx = jm.load()
+		px[x,y] = qx[1,1]
+		i += 1
+		if x == 29:
+			y += 1
+
+im.resize((300,300)).save('flag.png')
+```
