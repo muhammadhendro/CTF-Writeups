@@ -43,3 +43,19 @@ Input kita pertama di-? xor ? dengan 32, kemudian dilakukan ? base64 ? (terlihat
 
 **COMPFEST11{xor32_base64_shift128}**
 
+```
+from pwn import xor
+final = ['0xffffffd9', '0xffffffb2', '0xffffffb9', '0xfffffff4', '0xffffffe3', '0xffffffc7', '0xffffffda', '0xffffffec',
+'0xffffffe3', '0xffffffb3', '0xffffffd1', '0xffffffd2', '0xffffffc5', '0xffffffd6', '0xfffffff4', '0xffffffd9',
+'0xffffffd4', '0xffffffb1', '0xffffffc9', '0xffffffd4', '0xffffffc5', '0xffffffee', '0xffffffb9', '0xffffffc3',
+'0xffffffd1', '0xffffffd6', '0xffffffce', '0xffffffc6', '0xffffffc6', '0xffffffe8', '0xffffffd2', '0xffffffaf',
+'0xffffffd5', '0xffffffb0', '0xffffffe8', '0xffffffca', '0xffffffd2', '0xffffffec', '0xffffffd1', '0xffffffd2',
+'0xffffffc5', '0xffffffe8', '0xffffffe8', '0xffffffe4']
+flag = ""
+for x in final:
+	flag += chr((int(x,0) + 128) - 0xffffffff -1)
+
+flag = flag.decode("base64")
+print xor(flag,chr(0x20))
+```
+
