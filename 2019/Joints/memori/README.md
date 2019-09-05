@@ -5,6 +5,12 @@ dengan plugin kdbgscan.<br>
 volatility -f memory.dmp kdbgscan
 ```
 
+
+```
+volatility -f memory.dmp imageinfo
+```
+
+
 diperoleh Win7SP1x86 sebagai opsi profile
 <br>
 ``` volatility -f memory.dmp --profile=Win7SP1x86 pslist ``` <br>
@@ -45,3 +51,17 @@ dilakukan proses ekstraksi kembali dengan plugin hashdump<br>
 
 
 
+```
+volatility --plugins=/usr/share/volatility/plugins --profile=Win7SP1x86 -f memory.dmp mimikatz
+```
+
+Nitip
+
+```
+volatility -f memory.dmp netscan
+```
+
+
+```
+volatility -f memory.dmp --profile=Win7SP1x64 dumpfiles Q 0x000xxx -D /output
+```
