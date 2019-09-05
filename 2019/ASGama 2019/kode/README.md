@@ -26,6 +26,24 @@ if __name__ == '__main__':
 	main()
 
 ```
+
+<br>
+
+```
+from PIL import Image
+lizt = []
+for i in range(1,901):
+        wor = str(i)+'.png'
+        im = Image.open(wor)
+        pixels = list(im.getdata())
+        lizt.append(pixels[0])
+size = (30,30)
+image_out = Image.new('RGB',size)
+image_out.putdata(lizt)
+image_out.resize((300,300)).save('answer.jpg')
+
+```
+
 namun hasil qr tidak bisa di decode <br>
 setelah searching https://medium.com/@the.bilal.rizwan/intigriti-ctf-writeup-737009900a42 <br>
 didapat tools linux yaitu montage yang dapat menggabungkan potongan dari gambar tersebut<br>
