@@ -7,7 +7,7 @@ thx to akinari, gayu, rexy, pak lian, rizki, fauzan and all for support<br>
 
 tambahan WU:
 - [newbie.exe](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Cyber_Jawara_2019/newbie.exe)<br>
-- [haseul]()<br>
+- [haseul](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/Cyber_Jawara_2019/Haseul)<br>
 thx to Ashabul Kahfi<br>
 <p align="center"><img src="Untitled.png"></p>
 
