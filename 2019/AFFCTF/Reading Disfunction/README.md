@@ -1,6 +1,6 @@
 diberikan koneksi nc 165.22.22.11 9999<br>
 
-<img src="ok.png">
+<img src="okk.png">
 dimana flag terdapat pada setiap cell nya.<br>
 
 ```
