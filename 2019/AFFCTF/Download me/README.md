@@ -1,10 +1,12 @@
 # Download me
 
 diberikan sebuah web beserta dengan pengecekan token<br>
+<img src="web1.png">
 asumsi adalah token merupakan size dari file txt tsb<br>
 bruteforce dengan intruder attack md5hash 1 - 50<br> 
+<img src="bisa.png">
 
-berikut script<br>
+untuk script<br>
 ```
 import hashlib,requests
 
@@ -20,4 +22,4 @@ for i in range(50):
 #print hashlib.md5("34".encode()).hexdigest()
 
 ```
-
+credit to fauzan
