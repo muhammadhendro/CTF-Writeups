@@ -1,5 +1,8 @@
 # BufferOverflow #1
 
+<img src="bufo1.png"<br>
+<img src="bufo1a.png"<br>
+
 ```
 #include <stdio.h>
 
