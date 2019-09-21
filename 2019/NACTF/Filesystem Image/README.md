@@ -5,7 +5,8 @@ lakukan mount<br>
 
 ```
 sudo fdisk -l -u=sectors fsimage.iso
-``` <br>
+``` 
+<br>
 
 ```
 sudo mount -o loop,offset=512 fsimage.iso /mnt/
