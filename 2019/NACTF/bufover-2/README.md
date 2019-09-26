@@ -1,7 +1,9 @@
 # BufferOverflow #2
 
 <img src="bufo2.png"><br>
-disini dapat melakukan overwrite menuju fungsi win, namun terdapat pengecekan pada 2 buah argumen 
+disini dapat melakukan overwrite menuju fungsi win, namun terdapat pengecekan pada 2 buah argumen <br>
+yaitu 0x14b4da55 dan 0xf00db4be, ingat tipe data long adalah 8bytes
+<br>
 <br><img src="bufo2d.png"><br>
 
 
