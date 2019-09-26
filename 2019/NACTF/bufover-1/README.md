@@ -1,6 +1,7 @@
 # BufferOverflow #1
 
 <img src="bufo1.png"><br>
+hanya dengan menoverwrite alamat fungsi win untuk mencetak flag<br>
 <img src="bufo1a.png"><br>
 
 ```
