@@ -1,7 +1,7 @@
 # BufferOverflow #2
 
 <img src="bufo2.png"><br>
-disini dapat melakukan overwrite menuju addres
+disini dapat melakukan overwrite menuju fungsi win, namun terdapat pengecekan pada 2 buah argumen 
 <br><img src="bufo2d.png"><br>
 
 
