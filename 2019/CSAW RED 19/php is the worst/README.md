@@ -11,7 +11,7 @@ http://web.chal.csaw.io:1000/?key1[]=a&key2[]=b
 ```
 
 <br>
-cara kedua dengan memasukan md5 dengan awalan sama yaitu 0e<br>
+cara kedua dengan memasukan md5 dengan hasil awalan sama yaitu 0e<br>
 
 ```
 s878926199a
