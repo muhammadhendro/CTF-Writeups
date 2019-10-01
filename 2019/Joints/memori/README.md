@@ -63,5 +63,9 @@ volatility -f memory.dmp netscan
 
 
 ```
-volatility -f memory.dmp --profile=Win7SP1x64 dumpfiles Q 0x000xxx -D /output
+volatility -f memory.dmp --profile=Win7SP1x64 dumpfiles -Q 0x000xxx -D /output
+```
+
+```
+volatility -f file.raw --profile=WinXPSP2x86 cmdline
 ```
