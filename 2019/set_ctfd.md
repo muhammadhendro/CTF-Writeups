@@ -1,7 +1,7 @@
-https://www.mehmetfatih.com/CTFd-template-kurulumu/
+https://www.mehmetfatih.com/CTFd-template-kurulumu/<br>
 
-sudo apt-get install nginx
- sudo nano /etc/nginx/sites-available/ctfd_app.conf
+sudo apt-get install nginx<br>
+ sudo nano /etc/nginx/sites-available/ctfd_app.conf<br>
  
  ```
  server {
@@ -15,9 +15,9 @@ sudo apt-get install nginx
 }
 ```
 
-sudo ln -s /etc/nginx/sites-available/ctfd_app.conf /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/ctfd_app.conf /etc/nginx/sites-enabled/<br>
 
- sudo nginx -t
-$ sudo systemctl restart nginx
+ sudo nginx -t<br>
+sudo systemctl restart nginx<br>
 
-gunicorn --bind "0.0.0.0:4000" -w 4 "CTFd:create_app()"
+gunicorn --bind "0.0.0.0:4000" -w 4 "CTFd:create_app()"<br>
