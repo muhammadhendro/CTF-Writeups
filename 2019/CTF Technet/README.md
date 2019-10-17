@@ -1,5 +1,5 @@
 ## Writeups CTF Technet
-flintz
+
 
 - [Cryptography](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/CTF%20Technet/Cryptography)
 - [Forensics](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/CTF%20Technet/Forensic)
