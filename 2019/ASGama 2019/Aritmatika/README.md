@@ -1,14 +1,12 @@
 # Aritmatika
 
 diberikan sebuah koneksi nc 202.43.92.132 43000 <br>
-dilihat program meminta melakukan operasi hitung sebanyak 100x<br>
+
 
 <img src="arit11.png">
 
-disini saya menemukan wu pada https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
-yang memiliki kemiripan pada soal ini.
+https://codingo.io/ctf/writeup/programming/crikeycon/2017/03/08/crikeycon-2017-fastmath.html<br>
 
-disini saya ubah nilai regex tersebut berdasarkan string yang ditangkap pada nc nc 202.43.92.132 43000 <br>
 Complete 100 arithmetic questions below\nResult is only an integer value\n\n>> <br>
 
 ```
@@ -86,10 +84,10 @@ if __name__ == '__main__':
 
 jalankan dan flag didapat<br>
 
-**ASGama{g3nius_pl4yer}**
+
 <br>
 
-disini saya juga mencoba script lain menggunakan pwntools namun gagal <br>
+disini saya juga mencoba menggunakan pwntools namun gagal <br>
 
 ```
 #!/usr/bin/python
