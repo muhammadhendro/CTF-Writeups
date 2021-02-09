@@ -1,6 +1,7 @@
 https://www.mehmetfatih.com/CTFd-template-kurulumu/<br>
 https://medium.com/csictf/self-hosting-a-ctf-platform-ctfd-90f3f1611587
 
+ ```
 limit_req_zone  $binary_remote_addr zone=mylimit:10m rate=10r/s;
 limit_conn_zone $binary_remote_addr zone=addr:10m;
 server {
@@ -18,7 +19,7 @@ server {
         proxy_cache_bypass $http_upgrade;
   }
 }
-
+ ```
 
 sudo apt-get install nginx<br>
  sudo nano /etc/nginx/sites-available/ctfd_app.conf<br>
