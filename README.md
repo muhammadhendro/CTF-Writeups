@@ -1,5 +1,5 @@
 # Capture The Flag Writeups
 
-kumpulan  writeups CTF dari kompetisi mana aja :v<br>
+kumpulan  writeups CTF  :v<br>
 
 
