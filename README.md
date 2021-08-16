@@ -1,5 +1,5 @@
 # Capture The Flag Writeups
 
-kumpulan  writeups CTF  :v<br>
+kumpulan  writeups CTF  <br>
 
 
