@@ -8,4 +8,4 @@ sama seperti chall sebelumnya, berikut referensi untuk melakukan prompt injectio
 
 https://www.linkedin.com/pulse/chatgpt-prompt-hack-super-shubham-khichi/
 
-![]()
+![](https://github.com/muhammadhendro/CTF-Writeups/blob/master/2023/Tenable%20CTF%202023/Better%20OneShotGPT/3.jpg)
