@@ -12,6 +12,4 @@
 
  [OneShotGPT](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2023/Tenable%20CTF%202023/OneShotGPT)
 
-# Misc
-
  [Better OneShotGPT](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2023/Tenable%20CTF%202023/Better%20OneShotGPT)
