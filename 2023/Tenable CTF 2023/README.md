@@ -1,17 +1,17 @@
 ### Tenable CTF 2023
 
-## Stego
+# Stego
 
-- [Cyberpunk Cafe](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/ASGama%202019/kode)
+ [Cyberpunk Cafe](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2023/Tenable%20CTF%202023/Cyberpunk%20Cafe)
 
-## Web / Cloud
+# Web / Cloud
 
-- [Cat Viewer](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/ASGama%202019/Ping-Pong)
+ [Cat Viewer](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2023/Tenable%20CTF%202023/Cat%20Viewer)
 
-## Misc
+# Misc
 
-- [OneShotGPT](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/ASGama%202019/Are%20you%20blind%20yes%20maybe)<br>
+ [OneShotGPT](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2023/Tenable%20CTF%202023/OneShotGPT)
 
-## Misc
+# Misc
 
-- [Better OneShotGPT](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2019/ASGama%202019/Aritmatika)<br>
+ [Better OneShotGPT](https://github.com/muhammadhendro/CTF-Writeups/tree/master/2023/Tenable%20CTF%202023/Better%20OneShotGPT)
